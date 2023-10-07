@@ -2,9 +2,11 @@
 module.exports = {
   content: [
     "./src/app/**/*.tsx",
+    "./node_modules/tw-elements/dist/js/**/*.js"
   ],
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [require("tw-elements/dist/plugin.cjs")],
+  darkMode: "class"
 }
