@@ -6,10 +6,12 @@ import Loader from '../components/Loader';
 import Card from '../components/Card';
 
 
-async function getData() {
   //const response = await fetch('https://sheetdb.io/api/v1/59b7tphe8m6se');
   //const data = await response.json();
-  const data = [
+ 
+
+export default function Colaborators() {
+  const [colaborators, setColaborators] = useState([
     {
       id: 1,
       name: "Daiana Arena",
@@ -88,25 +90,9 @@ async function getData() {
       linkedin: "https://www.linkedin.com/in/luciano-marinaro-a26a42119/"
     }
 
-  ];
-  return data;
-}
+  ])
 
-export default function Colaborators() {
-  const [colaborators, setColaborators] = useState([]); // Inicializa el estado con un array vacío
-
-  useEffect(() => {
-    async function fetchData() {
-      try {
-        const colaboratorsList = await getData();
-        setColaborators(colaboratorsList); 
-      } catch (error) {
-        console.error(error);
-      }
-    }
-
-    fetchData();
-  }, []);
+ 
 
   return (
     <>
