@@ -30,13 +30,16 @@ export default function Colaborators() {
 
   return (
     <>
-    <section id="colaborators"> 
-      <div className="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+    <section id="colaborators"  > 
+      
 
       {colaborators && colaborators.length === 0 &&
         <Loader/>
       }
-        {colaborators && colaborators.length !== 0 && colaborators.map((colaborator:any) => (
+
+      {colaborators && colaborators.length !== 0 &&
+      <div className=" w-full p-6 grid grid-cols-3 justify-items-stretch content-stretch gap-4">
+        { colaborators.map((colaborator:any) => (
           <Card 
             key={colaborator.id}
             name={colaborator.name}  
@@ -45,11 +48,15 @@ export default function Colaborators() {
             position={colaborator.position}
             email={colaborator.email}
             linkedin={colaborator.linkedin}
+            
 
           />
           
         ))}
       </div>
+      }
+        
+      
       </section>
     </>
   );
