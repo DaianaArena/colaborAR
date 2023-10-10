@@ -28,14 +28,14 @@ export default function RootLayout({
       <meta property="og:url" content="https://daianaarena.vercel.app/"/>
       <meta property="og:title" content="ColaborAR"/>
       <meta property="og:description" content="Una red de colaboradores de IT autogestiva."/>
-      <meta property="og:image" content="https://i.imgur.com/9HFm2Wo.png"/>
+      <meta property="og:image" content="https://i.imgur.com/dc0ofpX.png"/>
 
 
       <meta property="twitter:card" content="summary_large_image"/>
       <meta property="twitter:url" content="https://daianaarena.vercel.app/"/>
       <meta property="twitter:title" content="ColaborAR"/>
       <meta property="twitter:description" content="Una red de colaboradores de IT autogestiva."/>
-      <meta property="twitter:image" content="https://i.imgur.com/9HFm2Wo.png"/>
+      <meta property="twitter:image" content="https://i.imgur.com/dc0ofpX.png"/>
 
 
       </head>
