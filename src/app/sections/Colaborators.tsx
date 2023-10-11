@@ -46,7 +46,8 @@ export default function Colaborators() {
       position: "Consultor / Líder de proyecto",
       email: "dtittarelli1978@gmail.com",
       linkedin: "https://www.linkedin.com/in/diego-tittarelli-939108a3",
-      resume:"https://drive.google.com/drive/folders/1-3I9RyuC_ezZzi670e9oWyymQWZzUFAg"
+      resume:"https://drive.google.com/file/d/1EDBiAEu9BAmNAVTyu6bAsWfxYBoAM7nf/view?usp=drive_link"
+      
     },
     {
       id: 5,
@@ -82,13 +83,16 @@ export default function Colaborators() {
       position: "Comercial",
       email: "gabrielalibra@hotmail.com",
       linkedin: "https://www.linkedin.com/in/silvanaenriquez/",
-      resume:""
+      resume:"https://drive.google.com/drive/folders/1-3I9RyuC_ezZzi670e9oWyymQWZzUFAg"
     },
     {
       id: 9,
       name: "Anabella García Guerra",
       description: "Soy estudiante de ingeniería industrial en la UTN FRBA y poseo una gran experiencia en el área comercial. Mi actitud proactiva me permite poder adquirir conocimientos que permitan realizar mis funciones con un mejor rendimiento y poder contar con conocimientos que me permitan poder tener un crecimiento profesional y personal.",
-      resume:""
+      resume:"https://drive.google.com/file/d/1NNxCA-_J0fpds-rGd5fm_1q1Oza6SaHy/view?usp=drive_link",
+      position: "Ejecutiva de cuentas",
+      email: "anngarciaguerra@gmail.com",
+      linkedin: "https://www.linkedin.com/in/anabellagarciaguerra/"
     },
     {
       id: 10,
