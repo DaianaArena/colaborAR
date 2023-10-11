@@ -98,6 +98,24 @@ export default function Colaborators() {
       email: "luciano-1368@hotmail.com",
       linkedin: "https://www.linkedin.com/in/luciano-marinaro-a26a42119/",
       resume:"https://drive.google.com/file/d/111P6I6iSXiDLCLi2bxZ6NOJhQPwNl80K/view?usp=drive_link"
+    },
+    {
+      id: 11,
+      name: "Marina Pierdominici",
+      description: "Soy Analista de Sistemas con 9 años de experiencia en desarrollo y gestión de proyectos para industrias de distintos tipos. Me gusta empatizar con quienes me acompañan en el equipo y genera run buen clima laboral. Siempre estoy dispuesta a aprender lo que sea necesario para conseguir cumplir con los requerimientos de los proyectos que lidero o ejecuto.",
+      position: "Líder de Proyectos de Transformación Digital",
+      email: "marinapierdominici.mp@gmail.com",
+      linkedin: "https://www.linkedin.com/in/marinapierdominici",
+      resume:"https://drive.google.com/file/d/1AFu-3jTLKXGYr_zFjNZxlYFofcnudrK8/view?usp=sharing"
+    },
+    {
+      id: 12,
+      name: "Mariana López",
+      description: "Soy ingeniera en sistemas con experiencia en implementación de sistemas. He trabajado en todas las etapas de un sistema, desde el relevamiento de los requerimientos y diseño de la solución hasta su implementación y soporte.",
+      position: "Analista funcional",
+      email: "marianalopez9097@gmail.com",
+      linkedin: "www.linkedin.com/in/mariana-lucia-lopez-0435161b1",
+      resume:"https://drive.google.com/file/d/1DcBkvHl_1w8UxOkBBZN8kMxz5wnVpDS4/view?usp=drive_link"
     }
 
   ])
