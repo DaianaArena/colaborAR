@@ -132,7 +132,7 @@ export default function Colaborators() {
       }
 
       {colaborators && colaborators.length !== 0 &&
-      <div className=" w-full p-6 grid grid-cols-3 justify-items-stretch content-stretch gap-4">
+      <div className=" w-full p-6 grid grid-cols-1 md:grid-cols-3 justify-items-stretch content-stretch gap-4">
         { colaborators.map((colaborator:any) => (
           <Card 
             key={colaborator.id}
