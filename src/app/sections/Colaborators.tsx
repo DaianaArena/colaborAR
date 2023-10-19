@@ -120,6 +120,15 @@ export default function Colaborators() {
       email: "marianalopez9097@gmail.com",
       linkedin: "www.linkedin.com/in/mariana-lucia-lopez-0435161b1",
       resume:"https://drive.google.com/file/d/1DcBkvHl_1w8UxOkBBZN8kMxz5wnVpDS4/view?usp=drive_link"
+    },
+    {
+      id: 14,
+      name: "Ludmila Cianni",
+      description: "Soy docente y me especializo en el área de comunicación. Tengo experiencia en pedagogía empresarial y en análisis funcional de sistemas de gestión empresarial de Zoho, diseñando y brindando programas de capacitación orientados a la implementación y optimización de procesos comerciales (CRM), automatización de marketing y gestion de los RRHH.",
+      position: "Analista Funcional y Mentoreo",
+      email: "ludmicianni93@gmail.com",
+      linkedin: "https://www.linkedin.com/in/ludmilacianni/",
+      resume:"https://drive.google.com/file/d/15YLyVAFUascP_5PSqXGCJU9oKKFXxG44/view?usp=share_link"
     }
 
   ])
