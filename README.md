@@ -78,7 +78,8 @@ The collected data is then seamlessly integrated with SheetDB, acting as our bac
 
 The autogestive aspect comes into play as collaborators have the autonomy to load and update their profiles without direct intervention from the platform administrators. This self-service model streamlines the process, putting control in the hands of the collaborators.
 
-5.Real-time Updates:
+
+5. Real-time Updates:
 
 As collaborators make changes to their profiles, the data stored in SheetDB is instantly updated, ensuring real-time accuracy and responsiveness on the frontend.
 
