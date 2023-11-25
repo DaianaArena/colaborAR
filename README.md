@@ -65,15 +65,19 @@ In colaborAR, we have implemented a seamless data flow between the frontend and 
 1. Frontend Interaction:
 
 Users interact with the frontend of colaborAR, where they can explore profiles, update information, and manage their own collaborator profiles.
+
 2. User-Generated Data:
 
 When a collaborator updates their profile or when a new profile is created, the frontend collects and organizes the user-generated data.
+
 3. SheetDB Integration:
 
 The collected data is then seamlessly integrated with SheetDB, acting as our backend database. SheetDB allows for easy storage and retrieval of data in spreadsheet format, offering a simple yet effective solution for autogestive profile management.
+
 4. Autogestive Profile Loading:
 
 The autogestive aspect comes into play as collaborators have the autonomy to load and update their profiles without direct intervention from the platform administrators. This self-service model streamlines the process, putting control in the hands of the collaborators.
+
 5.Real-time Updates:
 
 As collaborators make changes to their profiles, the data stored in SheetDB is instantly updated, ensuring real-time accuracy and responsiveness on the frontend.
