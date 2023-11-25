@@ -1,12 +1,15 @@
-<p align="center"><img src="https://i.imgur.com/LN4qbGG.png" width="400"></p>
-
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<p align="center"><img src="https://i.imgur.com/e4xdE7g.png" width="400"></p>
 
 
 # ColaborAR APP
 ## Project Description:
-Welcome to colaborAR, a self-managing IT collaboration network. Discover exceptional talent in Argentina and Mexico, and expand your team with us. Our platform, built with Next.js, utilizes the power of sheetdb.io for seamless data management, while the sleek design is crafted with Tailwind CSS. Join us in fostering a community of skilled collaborators and take your projects to new heights.
+Welcome to colaborAR, a self-managing IT collaboration network born out of a vision inspired by the challenges faced during a wave of mass layoffs in my company. Witnessing the impact on talented professionals, the idea for colaborAR emerged as a response to create a supportive space for collaboration and growth.
+
+After an overwhelmingly positive response to the [initial post on LinkedIn](https://www.linkedin.com/posts/arenadaiana_colaborar-activity-7117539626516365312-EU3r?utm_source=share&utm_medium=member_desktop), it became evident that the need for such a platform extended beyond the immediate circle. Therefore, I've decided to open colaborAR to the public, inviting individuals from all walks of the IT community to join us.
+
+Discover exceptional talent in Argentina and Mexico through our platform, meticulously crafted with Next.js, sheetdb.io, and Tailwind CSS. Our goal is to provide a seamless experience for both collaborators and organizations, fostering a community where skills thrive and projects reach new heights.
+
+Join us on this collaborative journey, where the idea of overcoming challenges has evolved into a platform that empowers professionals to connect, collaborate, and shape a brighter future together.
 
 ## Objective:
 The primary goal of the colaborAR project is to establish a self-governing network that facilitates collaboration within the IT community, with a specific focus on discovering and connecting exceptional talent in Argentina and Mexico. This platform aims to create a space where skilled professionals can showcase their expertise, and organizations can easily identify and engage with qualified collaborators. 
