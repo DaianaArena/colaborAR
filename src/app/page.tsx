@@ -63,7 +63,7 @@ export default function Home() {
             ColaborAR es una app completamente gratuita y autogestiva que intenta ayudar a colaboradores a encontrar trabajo.
             <br/> Si quieres aparecer en esta web,  
             <a
-            href="https://daianaarena.vercel.app/"
+            href="https://github.com/DaianaArena/colaborAR/blob/main/README.md#how-to-create-a-new-profile-entry"
             target="_blank"
             rel="noopener noreferrer"
             className="font-bold px-2 text-md underline underline-offset-1 "
