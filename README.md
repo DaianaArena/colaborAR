@@ -90,7 +90,7 @@ To add your profile to the colaborAR community and showcase your skills, follow 
 
 1. Navigate to the Registration Sheet:
 
-Visit [the registration sheet]("https://docs.google.com/spreadsheets/d/1bfT5Brd7kP1Xsj6AUVa3Kg_6e9aM8ZyhCxDgyjJIlY4/edit#gid=0") on the colaborAR platform. This sheet is designed to collect essential information for creating your profile.
+Visit [the registration sheet](https://docs.google.com/spreadsheets/d/1bfT5Brd7kP1Xsj6AUVa3Kg_6e9aM8ZyhCxDgyjJIlY4/edit#gid=0) on the colaborAR platform. This sheet is designed to collect essential information for creating your profile.
 
 
 2. Fill in Your Details:
