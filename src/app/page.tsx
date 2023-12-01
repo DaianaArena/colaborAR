@@ -26,6 +26,23 @@ export default function Home() {
                   Colaboradores
                 </a>
               </li>
+              <li>
+                <a
+                  className="block transition duration-150 ease-in-out  p-2 "
+                  href="#sumate"
+                >
+                  Sumá tu perfil
+                </a>
+              </li>              
+              <li>
+                <a
+                  className="block transition duration-150 ease-in-out  p-2 "
+                  href="https://www.buymeacoffee.com/arenadaianadev"
+                  target="_blank"
+                >
+                  Ayudame a seguir colaborando
+                </a>
+              </li>
             </ul>
           </div>
         </div>
@@ -41,6 +58,19 @@ export default function Home() {
       <div id="colaboradores" className=" p-12  text-white bg-purple-900">
         <h2 className="mb-4 text-4xl font-semibold">Colaboradores</h2>
         <Colaborators />
+        <h2 className="mb-4 text-4xl font-semibold">¿Estás buscando empleo?</h2>
+        <h4 id="sumate" className="mb-6 text-xl font-semibold">
+            ColaborAR es una app completamente gratuita y autogestiva que intenta ayudar a colaboradores a encontrar trabajo.
+            <br/> Si quieres aparecer en esta web,  
+            <a
+            href="https://daianaarena.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-bold px-2 text-md underline underline-offset-1 "
+          >
+            sigue estos pasos. 
+          </a>
+        </h4>
       </div>
 
       <div
